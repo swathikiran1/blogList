@@ -1,0 +1,34 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-pic {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #12022f;
+  font-size: 18px;
+}
+
+.designation {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #9aa5b1;
+  font-size: 15px;
+}
